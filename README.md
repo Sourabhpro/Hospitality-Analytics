@@ -15,7 +15,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 
-## Iinsights from the Dashboard
+## Insights from the Dashboard
 
 - Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
 - AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
