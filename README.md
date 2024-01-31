@@ -1,4 +1,4 @@
-# Hospitality Analysis
+# Hospitality Analytics
 
 ## Problem statement
 
